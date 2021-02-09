@@ -1,3 +1,11 @@
+/**Alex Beer
+ * CS.201
+ * Jon Genetti
+ * 2/8/2021
+ * Score.cpp was the hardest code I've written I think I really struggled with it
+ * but pretty much enter a name and number as many times as you want then type stop twice
+ */
+
 #include <string>
 #include <iostream>
 #include <map>
