@@ -13,12 +13,12 @@ int main()
 {
     double square = 2;
     double rice = 2;
-    while (rice < 1000000000)
+    while (rice < 1000000000) //cap
     {
-        rice *= 2;
-        cout << "There is " << rice << " pieces of rice that the inventor owns at square "
+        rice *= 2;  //math
+        cout << "There is " << rice << " pieces of rice that the inventor owns at square "  //print statement
              << square << endl;
         cout << "\n";
-        square++;
+        square++;  //more math
     }
 }
