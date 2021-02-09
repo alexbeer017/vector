@@ -1,3 +1,10 @@
+/**Alex Beer
+ * CS.201
+ * Jon Genetti
+ * 2/8/2021
+ * Vector.cpp is pretty much just a print statement but I use vectors. In the example you used names I hope numbers works if not let me know.
+ */
+
 #include <iostream>
 #include <vector>
 #include <string>
